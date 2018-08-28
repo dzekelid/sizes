@@ -1,0 +1,242 @@
+{
+	"name": "Streadata.io API Gallery - Sizes",
+	"description": "This is a repository of sizes APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/sizes.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://sizes.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Twilio",
+			"x-api-slug": "twilio",
+			"description": "Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale. Get started with a free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg",
+			"humanURL": "http://www.twilio.com",
+			"baseURL": "https://api.twilio.com//2010-04-01/",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/twilio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tumblr",
+			"x-api-slug": "tumblr",
+			"description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. Its where your interests connect you with your people.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/265-tumblr.jpg",
+			"humanURL": "https://www.tumblr.com/",
+			"baseURL": "https://api.tumblr.com//v2/",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/tumblr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VersaPay",
+			"x-api-slug": "versapay",
+			"description": "VersaPay handles elements of both credit and debit card merchant payment processing in Canada. In offering a host of merchant account services and credit card POS terminals it allows for an efficient merchant payment service in all aspects- in person, on the go, online, and at the office. Founded in 2005 by Michael Gokturk, VersaPay is a Canadian owned and operated national financial transaction services provider partnered with Chase Paymentech. Versapay also offers electronic funds transfer through a system called Versapay EMT.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg",
+			"humanURL": "http://developers.versapay.com/index.html",
+			"baseURL": "https://secure.versapay.com//",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/versapay/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DigitalOcean",
+			"x-api-slug": "digitalocean",
+			"description": "DigitalOcean is a simple and fast cloud hosting service built for developers. Customers can create a cloud server in 55 seconds, and pricing plans start at only $5 per month for 512MB of RAM, 20GB SSD, 1 CPU, and 1TB Transfer. Featuring a 99.99% Uptime SLA, DigitalOcean has servers located in New York, San Francisco, and Amsterdam. The DigitalOcean control panel interface is simple and intuitive, which power users can replicate on a larger scale with the company&rsquo;s API. DigitalOcean uses KVM virtualization and additionally hosts a library of helpful walkthroughs and tutorials that cover server configuration and optimization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DO_Logo_Horizontal_Black-3500c326.png",
+			"humanURL": "https://www.digitalocean.com",
+			"baseURL": "https://example.com//",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/digitalocean/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blizzard",
+			"x-api-slug": "blizzard",
+			"description": "This is the documentation for the RESTful APIs exposed through the World of Warcraft community site as a service to the World of Warcraft community.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Blizzard_Entertainment_Logo.svg.png",
+			"humanURL": "http://battle.net",
+			"baseURL": "https://us.battle.net//api/wow/",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/blizzard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS WAF",
+			"x-api-slug": "aws-waf",
+			"description": "AWS WAF is a web application firewall that helps protect your webapplications from common web exploits that could affect applicationavailability, compromise security, or consume excessive resources. AWSWAF gives you control over which traffic to allow or block to your webapplications by defining customizable web security rules. You can use AWSWAF to create custom rules that block common attack patterns, such as SQLinjection or cross-site scripting, and rules that are designed for your specific application. New rules can be deployed within minutes, letting you respondquickly to changing traffic patterns. Also, AWS WAF includes a full-featuredAPI that you can use to automate the creation, deployment, and maintenanceof web security rules.With AWS WAF you pay only for what you use. AWS WAF pricing is based on how many rules you deploy and how many web requests your web application receives. There are no upfront commitments.You can deploy AWS WAF on either Amazon CloudFront as part of your CDN solution or the Application Load Balancer (ALB) that fronts your web servers or origin servers running on EC2.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSWAF.png",
+			"humanURL": "https://aws.amazon.com/waf/",
+			"baseURL": ":///",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/aws-waf/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Doubleclick",
+			"x-api-slug": "google-doubleclick",
+			"description": "The Ad Exchange Buyer REST API allows your Real-Time Bidding application to access and update account information and to submit creatives. The API also allows an application (whether it does static bidding or real-time bidding) to discover direct deals that sellers make available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png",
+			"humanURL": "https://www.doubleclickbygoogle.com/",
+			"baseURL": "https:///",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/google-doubleclick/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LogMeIn",
+			"x-api-slug": "logmein",
+			"description": "LogMeIn, Inc. is a provider of software as a service and cloud-based remote connectivity services for collaboration, IT management and customer engagement, founded in 2003 and based in Boston, Massachusetts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg",
+			"humanURL": "http://www.LogMeInInc.com",
+			"baseURL": "https://api.getgo.com//G2W/rest/organizers",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/logmein/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Sizes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Sizes",
+	"include": [
+		{
+			"name": "Twilio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/twilio/apis.yaml"
+		},
+		{
+			"name": "Tumblr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/tumblr/apis.yaml"
+		},
+		{
+			"name": "VersaPay",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/versapay/apis.yaml"
+		},
+		{
+			"name": "DigitalOcean",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/digitalocean/apis.yaml"
+		},
+		{
+			"name": "Blizzard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/blizzard/apis.yaml"
+		},
+		{
+			"name": "AWS WAF",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/aws-waf/apis.yaml"
+		},
+		{
+			"name": "Google Doubleclick",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/google-doubleclick/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "LogMeIn",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/logmein/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sizes/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
